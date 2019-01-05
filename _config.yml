@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale : "en-US"
-title: Alex's Website
-email: your-email@example.com
+title: Alex's Very Own Website
+email: alzx@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  All about beards and plants.
+  All about Alex.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -36,7 +36,7 @@ minimal_mistakes_skin    : "air"
 author:
   name             : "Alex McCoy"
   avatar           : "/assets/images/profile-pic.jpg"
-  bio              : "I'd rather be outside."
+  bio              : "I'm all about beards and plants and data and life."
   location         : "Wichita, KS"
   email            : "alzx@protonmail.com"
   # links:
