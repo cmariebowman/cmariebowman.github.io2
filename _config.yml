@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   All about Alex.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: alzxjmccoy
+github_username:  alexjmccoy
 
 words_per_minute: 200
 
@@ -39,25 +39,19 @@ author:
   bio              : "I'm all about beards and plants and data and life."
   location         : "Wichita, KS"
   email            : "alzx@protonmail.com"
-  # links:
-  #   - label: "Email"
-  #     icon: "fas fa-fw fa-envelope-square"
-  #      url: mailto:ajm422@gmail.com
-  #   - label: "Website"
-  #     icon: "fas fa-fw fa-link"
-  #     # url: "https://your-website.com"
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #      url: "https://twitter.com/alzxjmccoy"
-  #   - label: "Facebook"
-  #     icon: "fab fa-fw fa-facebook-square"
-  #     # url: "https://facebook.com/"
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     # url: "https://github.com/"
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     # url: "https://instagram.com/"
+  links:
+    - label: "Alex's Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.alexjmccoy.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/alzxjmccoy"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alexjmccoy"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/alzxjm"
 
 # Site Footer
 footer:
