@@ -18,4 +18,4 @@ Here's a test picture, directly from my Google Photos!
 
 Just in case, here's a locall hosted image:
 
-![Declan!](assets/images/declan.jpg)
+![Declan!](/assets/images/declan.jpg)
