@@ -2,7 +2,7 @@
 layout: single
 title:  "First Post!"
 date:   2019-01-05 13:08:47 +0000
-categories: jekyll update
+categories: blog
 
 header:
    image: /assets/images/ian-stauffer-578276-unsplash.jpg
