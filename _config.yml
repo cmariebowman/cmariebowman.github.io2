@@ -16,7 +16,7 @@ title_separator          : "-"
 name                     : &name "Alex McCoy" # &name is a YAML anchor which can be *referenced later
 description              : &description "It's my awesome website!"
 url                      : https://alexjmccoy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "/alexjmccoy" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexjmccoy/alexjmccoy.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
