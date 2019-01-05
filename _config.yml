@@ -34,10 +34,10 @@ minimal_mistakes_skin    : "air"
 # Site Author
 author:
   name             : "Alex McCoy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-pic.jpg"
   bio              : "I'd rather be outside."
   location         : "Wichita, KS"
-  email            : ""
+  email            : "alzx@protonmail.com"
   # links:
   #   - label: "Email"
   #     icon: "fas fa-fw fa-envelope-square"
