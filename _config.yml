@@ -29,6 +29,7 @@ words_per_minute: 200
 markdown: kramdown
 #theme: minima
 remote_theme: mmistakes/minimal-mistakes
+#remote_theme: alexjmccoy/minimal-mistakes
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin    : "air"
 # Site Author
