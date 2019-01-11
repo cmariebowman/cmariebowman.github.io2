@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "How I organize everything!"
+title:  "How I record and organize everything!"
 date:   2019-01-11 13:08:47 +0000
 categories: blog
 
