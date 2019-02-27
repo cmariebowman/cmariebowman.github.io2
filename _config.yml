@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale : "en-US"
-title: Alex's Very Own Website
-email: alzx@protonmail.com
+title: Christina Bowman, M.D.
+email: cbowmanmd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  All about Alex.
+  All about Christina Bowman, M.D.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alzxjmccoy
-github_username:  alexjmccoy
+twitter_username: cbowmanmd
+github_username:  cmariebowman
 
 words_per_minute: 200
 
@@ -31,10 +31,10 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 #remote_theme: alexjmccoy/minimal-mistakes
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-minimal_mistakes_skin    : "air"
+minimal_mistakes_skin    : "mint"
 # Site Author
 author:
-  name             : "Alex McCoy"
+  name             : "Christina Bowman"
   avatar           : "/assets/images/profile-pic.jpg"
   bio              : "I'm all about beards and plants and data and life."
   location         : "Wichita, KS"
